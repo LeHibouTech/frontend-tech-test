@@ -12,6 +12,7 @@
     "lint:fix": "eslint . --fix"
   },
   "dependencies": {
+    "@tanstack/vue-query": "^5.45.0",
     "@nuxt/eslint": "^0.3.13",
     "@nuxt/ui": "^2.16.0",
     "nuxt": "^3.12.1",
