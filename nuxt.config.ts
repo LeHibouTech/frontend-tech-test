@@ -8,6 +8,7 @@ export default defineNuxtConfig({
 		apiAppKeySecret: '',
 		apiAppIdSecret: '',
 	},
+	pages: false,
 	eslint: {
 		config: {
 			stylistic: {
