@@ -33,7 +33,7 @@ If one of this criteria is not met, the test will be considered as **failed**.
 We are interested in how you approach the problem and how you solve it. 
 You don't have to implement the wireframe design, feel free to use your creativity. 
 
-### Technical specifications
+## Technical specifications
 
 - The project is setup with **Nuxt 3**, **Tailwind**, and **NuxtUi**, that mean you are free to use **NuxtUi**. 
 - We have implemented a eslint config, _please make sure to not submit your test with errors/warnings_
@@ -83,11 +83,15 @@ In our application, we will use the `ENERC_KCAL` value to get the calories of th
   - _You can display a message to the user_
 - What should I do if the API is down ?
   - _You can display a message to the user_
-
+  
 
 ### Wireframes
 
 Just to give you an idea of what we are looking for, here is a wireframe of the application, has said before, **you are free to use your creativity**.
+
+![wfm-1](https://github.com/LeHibouTech/frontend-tech-test/assets/72107589/68aa5b3b-03d4-4178-8992-199ccce0a154)
+![wfm-2](https://github.com/LeHibouTech/frontend-tech-test/assets/72107589/e4152c58-b0ac-4bfb-bbeb-d1725ee40591)
+
 
 ### Bonus points
 
