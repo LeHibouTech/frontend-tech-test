@@ -93,10 +93,15 @@ Just to give you an idea of what we are looking for, here is a wireframe of the 
 ![wfm-2](https://github.com/LeHibouTech/frontend-tech-test/assets/72107589/e4152c58-b0ac-4bfb-bbeb-d1725ee40591)
 
 
-### Bonus points
+### Bonus points ✨
 
 - Find to way to improve performances in case of large items list
 - Loading state when fetching items calories
 - Small screen responsive design
 - Animations ? 
 - Anything you think would be a good addition to the project
+
+### Test submition 
+
+- You have to clone this repository, and host it on your own GitHub.
+- Send a mail at `developer@lehibou.com` with the link of the repository.
